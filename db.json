@@ -1289,5 +1289,22 @@
       "img": "https://cdn1.tripoto.com/media/filter/tst/img/2052077/Image/1643527500_1511339516_flyboarding_1489419081uxj.jpg",
       "sortdesc": "Adrenalin-Pumping Fly Boarding In Goa"
     }
-  ]
+  ],
+  "signup": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "data": {
+    "name": "typicode"
+  }
 }
