@@ -1434,6 +1434,127 @@
       "name": "Sam",
       "seat": "A2"
     }
+  ],
+   "Patient": [
+    {
+      "id": 1,
+      "name": "Moazzem Hosen Sardar",
+      "age": "24+",
+      "gender": "Male",
+      "paracitamol": "500mg",
+      "Omez": "20mg",
+      "Paramin": "50ml",
+      "Brainolia": "30ml"
+    },
+    {
+      "id": 2,
+      "name": "Raju Kumar",
+      "age": "19",
+      "gender": "Male",
+      "paracitamol": "650ml",
+      "Omez": "25ml",
+      "Paramin": "75ml",
+      "Brainolia": "50ml"
+    },
+    {
+      "id": 3,
+      "name": "Rina Kumari",
+      "age": "26",
+      "gender": "Femate",
+      "paracitamol": "405ml",
+      "Omez": "100ml",
+      "Paramin": "30",
+      "Brainolia": "30ml"
+    },
+    {
+      "id": 4,
+      "name": "Mahrin",
+      "age": "10+",
+      "gender": "Female",
+      "paracitamol": "100ml",
+      "Omez": "20ml",
+      "Paramin": "30",
+      "Brainolia": "10ml"
+    },
+    {
+      "id": 5,
+      "name": "Biki Khan",
+      "age": "23",
+      "gender": "Male",
+      "paracitamol": "100ml",
+      "Omez": "20ml",
+      "Paramin": "23ml",
+      "Brainolia": "50ml"
+    },
+    {
+      "id": 6,
+      "name": "Tanmay Ghosh",
+      "age": "22+",
+      "gender": "Male",
+      "paracitamol": "100ml",
+      "Omez": "20ml",
+      "Paramin": "23ml",
+      "Brainolia": "50ml"
+    },
+    {
+      "id": 7,
+      "name": "Soubhik Mondal",
+      "age": "23+",
+      "gender": "Female",
+      "paracitamol": "100ml",
+      "Omez": "20ml",
+      "Paramin": "30",
+      "Brainolia": "10ml"
+    },
+    {
+      "id": 8,
+      "name": "Salman Khan",
+      "age": "52",
+      "gender": "Male",
+      "paracitamol": "1000ml",
+      "Omez": "100ml",
+      "Paramin": "100ml",
+      "Brainolia": "100ml"
+    },
+    {
+      "id": 9,
+      "name": "Mani Ghosh",
+      "age": "02+",
+      "gender": "Male",
+      "paracitamol": "100ml",
+      "Omez": "20ml",
+      "Paramin": "23ml",
+      "Brainolia": "50ml"
+    },{
+      "id": 10,
+      "name": "Dhoni",
+      "age": "38+",
+      "gender": "Male",
+      "paracitamol": "100ml",
+      "Omez": "20ml",
+      "Paramin": "23ml",
+      "Brainolia": "50ml"
+    },
+    {
+      "id": 11,
+      "name": "Sourab",
+      "age": "45+",
+      "gender": "Male",
+      "paracitamol": "100ml",
+      "Omez": "20ml",
+      "Paramin": "23ml",
+      "Brainolia": "50ml"
+    },
+    {
+      "id": 12,
+      "name": "Kartik",
+      "age": "41",
+      "gender": "Male",
+      "paracitamol": "100ml",
+      "Omez": "20ml",
+      "Paramin": "23ml",
+      "Brainolia": "50ml"
+    }
   ]
 }
 
