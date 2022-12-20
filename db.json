@@ -1634,6 +1634,17 @@
         "contract": "Full Time",
         "position": " Backend Developer",
         "language": "Java"
+      },
+      {
+        "company": "Jinny",
+        "postedAt": "2021-09-09",
+        "city": "Ludhiana",
+        "location": "Belgium",
+        "role": "FullStack",
+        "level": "Junior",
+        "contract": "Full Time",
+        "position": "Junior Frontend Developer",
+        "language": "Java"
       }
     ]
   }
